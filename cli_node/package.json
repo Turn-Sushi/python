@@ -1,0 +1,25 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homework.js",
+  "scripts": {
+    "start": "node src/homework.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turn-Sushi/python.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Turn-Sushi/python/issues"
+  },
+  "homepage": "https://github.com/Turn-Sushi/python#readme",
+  "dependencies": {
+    "commander": "^14.0.2"
+  }
+}
